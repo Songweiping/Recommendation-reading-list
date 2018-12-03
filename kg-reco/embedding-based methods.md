@@ -9,4 +9,4 @@
 8. Knowledge graph embedding: A survey of approaches and applications. IEEE'17. ([paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8047276)) 
 9. Learning Heterogeneous Knowledge Base Embeddings for Explainable Recommendation. Arxiv. ([paper](Learning Heterogeneous Knowledge Base
    Embeddings for Explainable Recommendation))
-
+10. Convolutional 2D Knowledge Graph Embeddings. Arxiv. ([paper](https://arxiv.org/abs/1707.01476))([code])(Multihop on server)
