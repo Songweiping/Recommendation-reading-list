@@ -7,4 +7,7 @@
 5. PathSim: Meta Path-Based Top-K Similarity Search in Heterogeneous Information Networks.VLDB'11.([paper](http://vldb.org/pvldb/vol4/p992-sun.pdf))
 6. Semantic Path based Personalized Recommendation on Weighted Heterogeneous Information Networks.CIKM'15. ([paper](http://shichuan.org/doc/24.pdf))
 7. Recommendation in Heterogeneous Information Networks with Implicit User Feedback. RecSys'13. ([paper](http://hanj.cs.illinois.edu/pdf/recsys13_xyu.pdf))
-
+8. GO FOR A WALK AND ARRIVE AT THE ANSWER: REASONING OVER PATHS IN KNOWLEDGE BASES USING REINFORCEMENT LEARNING. Arxiv. ([paper](https://arxiv.org/abs/1711.05851))(MINERVA)
+9. Multi-Hop Knowledge Graph Reasoning with Reward Shaping. Arxiv. ([paper](https://arxiv.org/abs/1808.10568v1))(Multihop)
+10. Differentiable Learning of Logical Rules for Knowledge Base Reasoning. NIPS2017. ([paper](https://arxiv.org/abs/1702.08367))(NeuralLP)
+11. Explainable Reasoning over Knowledge Graphs for Recommendation. AAAI'19. ([paper](https://arxiv.org/pdf/1811.04540.pdf))(KPRN)
